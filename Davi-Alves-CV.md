@@ -25,8 +25,10 @@ profissional.
 ## Habilidades:
 * CSS:
     * Bootstrap
+    * Reponsive design
 * Javascript:
     * JQuery
+    * Gatsby
 * PHP:
     * CakePhp      
 * HTML 5
