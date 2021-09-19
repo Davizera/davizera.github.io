@@ -36,12 +36,18 @@ profissional.
     -   Testes Unitários
 -   C#
     -   ASP.NET
+    -   ASP.NET Core
     -   .NET Framework
+    -   .NET Core
+    -   WebApi
+    -   Testes unitários e de integração
+    -   Documentação de projetos com [DocFx](https://dotnet.github.io/docfx/index.html)
 -   HTML 5
 -   Banco de dados
     -   Mysql
     -   SQL Server
--   Git e Github
+    -   MongoDB
+-   Git, Github e Azure DevOps
 -   WordPress
 -   Linux
 -   Photoshop
